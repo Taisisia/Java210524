@@ -1,6 +1,6 @@
 package HomeWork.module1.lecture1.module1.lecture1._2;
 
-public class Phone {
+public class PhoneHW {
     //  Класс Phone.
 //Создайте класс Phone, который содержит переменные number, model и weight.
 //Создайте три экземпляра этого класса.
@@ -11,12 +11,17 @@ public class Phone {
     public int number;
     public String model;
     public int weight;
+    public int prais;
 
-    public void receiveCall() {
-        System.out.println("Звонит " + number);
+
+
+    public PhoneHW(int number) {
+        this.number = number;
     }
 
-    public int getNumber() {
-        return number;
+    public PhoneHW(String model) {
+        this.model = model;
     }
+
+
 }
