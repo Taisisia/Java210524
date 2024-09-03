@@ -47,6 +47,11 @@ public class SimpleExtends {
         unicornReisIerarhicheskoeNasledovanie.transportPassendger();
         System.out.println();
 
+        // Пример Асоциации
+        UniPegasus uniPegasus = new UniPegasus("Uni", "black", 100, 2);
+        uniPegasus.flu();
+        uniPegasus.unicorn.butt();
+
 
     }
 
