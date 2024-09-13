@@ -14,7 +14,6 @@ public class MainObject3D {
     public static void main(String[] args) {
         WeightedObject3D ball = new Ball(0.3f, 510);
 
-
         WeightedObject3D cone = new Cone(0.2f, 0.4f, 1500);
 
         WeightedObject3D cube = new Cube(0.5f, 510);
