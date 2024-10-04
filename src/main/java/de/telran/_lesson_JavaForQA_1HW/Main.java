@@ -1,4 +1,4 @@
-package de.telran._lesson_JavaFurQA_1HW;
+package de.telran._lesson_JavaForQA_1HW;
 
 public class Main {
     public static void main(String[] args) {

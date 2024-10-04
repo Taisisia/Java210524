@@ -1,4 +1,4 @@
-package de.telran._lesson_JavaFurQA_1_20240906;
+package de.telran._lesson_JavaForQA_1_20240906;
 
 public abstract class WeightedObject3D implements Object3D {
 
